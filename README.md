@@ -11,7 +11,7 @@ The goal is to evaluate whether a **home advantage** exists and how strongly it 
 
 ## 📁 Project Structure
 
-
+```text
 2025_Football_Home_Advantage/
 ├─ data/
 │   ├─ raw/                # Original Excel datasets (input)
@@ -23,6 +23,7 @@ The goal is to evaluate whether a **home advantage** exists and how strongly it 
 │   └─ dmp/                # Data Management Plan
 ├─ src/                    # Optional Python scripts
 └─ README.md
+
 
 
 ## 🔍 Research Question
