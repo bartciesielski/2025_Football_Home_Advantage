@@ -1,0 +1,687 @@
+Date,Home,Away,HG,AG,Res,League,HomeWin,AwayWin,Draw
+2024-08-16,Man United,Fulham,1,0,H,England,1,0,0
+2024-08-17,Ipswich,Liverpool,0,2,A,England,0,1,0
+2024-08-17,Arsenal,Wolves,2,0,H,England,1,0,0
+2024-08-17,Everton,Brighton,0,3,A,England,0,1,0
+2024-08-17,Newcastle,Southampton,1,0,H,England,1,0,0
+2024-08-17,Nott'm Forest,Bournemouth,1,1,D,England,0,0,1
+2024-08-17,West Ham,Aston Villa,1,2,A,England,0,1,0
+2024-08-18,Brentford,Crystal Palace,2,1,H,England,1,0,0
+2024-08-18,Chelsea,Man City,0,2,A,England,0,1,0
+2024-08-19,Leicester,Tottenham,1,1,D,England,0,0,1
+2024-08-24,Brighton,Man United,2,1,H,England,1,0,0
+2024-08-24,Crystal Palace,West Ham,0,2,A,England,0,1,0
+2024-08-24,Fulham,Leicester,2,1,H,England,1,0,0
+2024-08-24,Man City,Ipswich,4,1,H,England,1,0,0
+2024-08-24,Southampton,Nott'm Forest,0,1,A,England,0,1,0
+2024-08-24,Tottenham,Everton,4,0,H,England,1,0,0
+2024-08-24,Aston Villa,Arsenal,0,2,A,England,0,1,0
+2024-08-25,Bournemouth,Newcastle,1,1,D,England,0,0,1
+2024-08-25,Wolves,Chelsea,2,6,A,England,0,1,0
+2024-08-25,Liverpool,Brentford,2,0,H,England,1,0,0
+2024-08-31,Arsenal,Brighton,1,1,D,England,0,0,1
+2024-08-31,Brentford,Southampton,3,1,H,England,1,0,0
+2024-08-31,Everton,Bournemouth,2,3,A,England,0,1,0
+2024-08-31,Ipswich,Fulham,1,1,D,England,0,0,1
+2024-08-31,Leicester,Aston Villa,1,2,A,England,0,1,0
+2024-08-31,Nott'm Forest,Wolves,1,1,D,England,0,0,1
+2024-08-31,West Ham,Man City,1,3,A,England,0,1,0
+2024-09-01,Chelsea,Crystal Palace,1,1,D,England,0,0,1
+2024-09-01,Newcastle,Tottenham,2,1,H,England,1,0,0
+2024-09-01,Man United,Liverpool,0,3,A,England,0,1,0
+2024-09-14,Southampton,Man United,0,3,A,England,0,1,0
+2024-09-14,Brighton,Ipswich,0,0,D,England,0,0,1
+2024-09-14,Crystal Palace,Leicester,2,2,D,England,0,0,1
+2024-09-14,Fulham,West Ham,1,1,D,England,0,0,1
+2024-09-14,Liverpool,Nott'm Forest,0,1,A,England,0,1,0
+2024-09-14,Man City,Brentford,2,1,H,England,1,0,0
+2024-09-14,Aston Villa,Everton,3,2,H,England,1,0,0
+2024-09-14,Bournemouth,Chelsea,0,1,A,England,0,1,0
+2024-09-15,Tottenham,Arsenal,0,1,A,England,0,1,0
+2024-09-15,Wolves,Newcastle,1,2,A,England,0,1,0
+2024-09-21,West Ham,Chelsea,0,3,A,England,0,1,0
+2024-09-21,Aston Villa,Wolves,3,1,H,England,1,0,0
+2024-09-21,Fulham,Newcastle,3,1,H,England,1,0,0
+2024-09-21,Leicester,Everton,1,1,D,England,0,0,1
+2024-09-21,Liverpool,Bournemouth,3,0,H,England,1,0,0
+2024-09-21,Southampton,Ipswich,1,1,D,England,0,0,1
+2024-09-21,Tottenham,Brentford,3,1,H,England,1,0,0
+2024-09-21,Crystal Palace,Man United,0,0,D,England,0,0,1
+2024-09-22,Brighton,Nott'm Forest,2,2,D,England,0,0,1
+2024-09-22,Man City,Arsenal,2,2,D,England,0,0,1
+2024-09-28,Newcastle,Man City,1,1,D,England,0,0,1
+2024-09-28,Arsenal,Leicester,4,2,H,England,1,0,0
+2024-09-28,Brentford,West Ham,1,1,D,England,0,0,1
+2024-09-28,Chelsea,Brighton,4,2,H,England,1,0,0
+2024-09-28,Everton,Crystal Palace,2,1,H,England,1,0,0
+2024-09-28,Nott'm Forest,Fulham,0,1,A,England,0,1,0
+2024-09-28,Wolves,Liverpool,1,2,A,England,0,1,0
+2024-09-29,Ipswich,Aston Villa,2,2,D,England,0,0,1
+2024-09-29,Man United,Tottenham,0,3,A,England,0,1,0
+2024-09-30,Bournemouth,Southampton,3,1,H,England,1,0,0
+2024-10-05,Crystal Palace,Liverpool,0,1,A,England,0,1,0
+2024-10-05,Arsenal,Southampton,3,1,H,England,1,0,0
+2024-10-05,Brentford,Wolves,5,3,H,England,1,0,0
+2024-10-05,Leicester,Bournemouth,1,0,H,England,1,0,0
+2024-10-05,Man City,Fulham,3,2,H,England,1,0,0
+2024-10-05,West Ham,Ipswich,4,1,H,England,1,0,0
+2024-10-05,Everton,Newcastle,0,0,D,England,0,0,1
+2024-10-06,Aston Villa,Man United,0,0,D,England,0,0,1
+2024-10-06,Chelsea,Nott'm Forest,1,1,D,England,0,0,1
+2024-10-06,Brighton,Tottenham,3,2,H,England,1,0,0
+2024-10-19,Tottenham,West Ham,4,1,H,England,1,0,0
+2024-10-19,Fulham,Aston Villa,1,3,A,England,0,1,0
+2024-10-19,Ipswich,Everton,0,2,A,England,0,1,0
+2024-10-19,Man United,Brentford,2,1,H,England,1,0,0
+2024-10-19,Newcastle,Brighton,0,1,A,England,0,1,0
+2024-10-19,Southampton,Leicester,2,3,A,England,0,1,0
+2024-10-19,Bournemouth,Arsenal,2,0,H,England,1,0,0
+2024-10-20,Wolves,Man City,1,2,A,England,0,1,0
+2024-10-20,Liverpool,Chelsea,2,1,H,England,1,0,0
+2024-10-21,Nott'm Forest,Crystal Palace,1,0,H,England,1,0,0
+2024-10-25,Leicester,Nott'm Forest,1,3,A,England,0,1,0
+2024-10-26,Aston Villa,Bournemouth,1,1,D,England,0,0,1
+2024-10-26,Brentford,Ipswich,4,3,H,England,1,0,0
+2024-10-26,Brighton,Wolves,2,2,D,England,0,0,1
+2024-10-26,Man City,Southampton,1,0,H,England,1,0,0
+2024-10-26,Everton,Fulham,1,1,D,England,0,0,1
+2024-10-27,Chelsea,Newcastle,2,1,H,England,1,0,0
+2024-10-27,Crystal Palace,Tottenham,1,0,H,England,1,0,0
+2024-10-27,West Ham,Man United,2,1,H,England,1,0,0
+2024-10-27,Arsenal,Liverpool,2,2,D,England,0,0,1
+2024-11-02,Newcastle,Arsenal,1,0,H,England,1,0,0
+2024-11-02,Bournemouth,Man City,2,1,H,England,1,0,0
+2024-11-02,Ipswich,Leicester,1,1,D,England,0,0,1
+2024-11-02,Liverpool,Brighton,2,1,H,England,1,0,0
+2024-11-02,Nott'm Forest,West Ham,3,0,H,England,1,0,0
+2024-11-02,Southampton,Everton,1,0,H,England,1,0,0
+2024-11-02,Wolves,Crystal Palace,2,2,D,England,0,0,1
+2024-11-03,Tottenham,Aston Villa,4,1,H,England,1,0,0
+2024-11-03,Man United,Chelsea,1,1,D,England,0,0,1
+2024-11-04,Fulham,Brentford,2,1,H,England,1,0,0
+2024-11-09,Brentford,Bournemouth,3,2,H,England,1,0,0
+2024-11-09,Crystal Palace,Fulham,0,2,A,England,0,1,0
+2024-11-09,West Ham,Everton,0,0,D,England,0,0,1
+2024-11-09,Wolves,Southampton,2,0,H,England,1,0,0
+2024-11-09,Brighton,Man City,2,1,H,England,1,0,0
+2024-11-09,Liverpool,Aston Villa,2,0,H,England,1,0,0
+2024-11-10,Man United,Leicester,3,0,H,England,1,0,0
+2024-11-10,Nott'm Forest,Newcastle,1,3,A,England,0,1,0
+2024-11-10,Tottenham,Ipswich,1,2,A,England,0,1,0
+2024-11-10,Chelsea,Arsenal,1,1,D,England,0,0,1
+2024-11-23,Leicester,Chelsea,1,2,A,England,0,1,0
+2024-11-23,Arsenal,Nott'm Forest,3,0,H,England,1,0,0
+2024-11-23,Aston Villa,Crystal Palace,2,2,D,England,0,0,1
+2024-11-23,Bournemouth,Brighton,1,2,A,England,0,1,0
+2024-11-23,Everton,Brentford,0,0,D,England,0,0,1
+2024-11-23,Fulham,Wolves,1,4,A,England,0,1,0
+2024-11-23,Man City,Tottenham,0,4,A,England,0,1,0
+2024-11-24,Southampton,Liverpool,2,3,A,England,0,1,0
+2024-11-24,Ipswich,Man United,1,1,D,England,0,0,1
+2024-11-25,Newcastle,West Ham,0,2,A,England,0,1,0
+2024-11-29,Brighton,Southampton,1,1,D,England,0,0,1
+2024-11-30,Brentford,Leicester,4,1,H,England,1,0,0
+2024-11-30,Crystal Palace,Newcastle,1,1,D,England,0,0,1
+2024-11-30,Nott'm Forest,Ipswich,1,0,H,England,1,0,0
+2024-11-30,Wolves,Bournemouth,2,4,A,England,0,1,0
+2024-11-30,West Ham,Arsenal,2,5,A,England,0,1,0
+2024-12-01,Chelsea,Aston Villa,3,0,H,England,1,0,0
+2024-12-01,Man United,Everton,4,0,H,England,1,0,0
+2024-12-01,Tottenham,Fulham,1,1,D,England,0,0,1
+2024-12-01,Liverpool,Man City,2,0,H,England,1,0,0
+2024-12-03,Ipswich,Crystal Palace,0,1,A,England,0,1,0
+2024-12-03,Leicester,West Ham,3,1,H,England,1,0,0
+2024-12-04,Everton,Wolves,4,0,H,England,1,0,0
+2024-12-04,Man City,Nott'm Forest,3,0,H,England,1,0,0
+2024-12-04,Newcastle,Liverpool,3,3,D,England,0,0,1
+2024-12-04,Southampton,Chelsea,1,5,A,England,0,1,0
+2024-12-04,Arsenal,Man United,2,0,H,England,1,0,0
+2024-12-04,Aston Villa,Brentford,3,1,H,England,1,0,0
+2024-12-05,Fulham,Brighton,3,1,H,England,1,0,0
+2024-12-05,Bournemouth,Tottenham,1,0,H,England,1,0,0
+2024-12-07,Aston Villa,Southampton,1,0,H,England,1,0,0
+2024-12-07,Brentford,Newcastle,4,2,H,England,1,0,0
+2024-12-07,Crystal Palace,Man City,2,2,D,England,0,0,1
+2024-12-07,Man United,Nott'm Forest,2,3,A,England,0,1,0
+2024-12-08,Fulham,Arsenal,1,1,D,England,0,0,1
+2024-12-08,Ipswich,Bournemouth,1,2,A,England,0,1,0
+2024-12-08,Leicester,Brighton,2,2,D,England,0,0,1
+2024-12-08,Tottenham,Chelsea,3,4,A,England,0,1,0
+2024-12-09,West Ham,Wolves,2,1,H,England,1,0,0
+2024-12-14,Arsenal,Everton,0,0,D,England,0,0,1
+2024-12-14,Liverpool,Fulham,2,2,D,England,0,0,1
+2024-12-14,Newcastle,Leicester,4,0,H,England,1,0,0
+2024-12-14,Wolves,Ipswich,1,2,A,England,0,1,0
+2024-12-14,Nott'm Forest,Aston Villa,2,1,H,England,1,0,0
+2024-12-15,Brighton,Crystal Palace,1,3,A,England,0,1,0
+2024-12-15,Man City,Man United,1,2,A,England,0,1,0
+2024-12-15,Chelsea,Brentford,2,1,H,England,1,0,0
+2024-12-15,Southampton,Tottenham,0,5,A,England,0,1,0
+2024-12-16,Bournemouth,West Ham,1,1,D,England,0,0,1
+2024-12-21,Aston Villa,Man City,2,1,H,England,1,0,0
+2024-12-21,Brentford,Nott'm Forest,0,2,A,England,0,1,0
+2024-12-21,Ipswich,Newcastle,0,4,A,England,0,1,0
+2024-12-21,West Ham,Brighton,1,1,D,England,0,0,1
+2024-12-21,Crystal Palace,Arsenal,1,5,A,England,0,1,0
+2024-12-22,Everton,Chelsea,0,0,D,England,0,0,1
+2024-12-22,Fulham,Southampton,0,0,D,England,0,0,1
+2024-12-22,Leicester,Wolves,0,3,A,England,0,1,0
+2024-12-22,Man United,Bournemouth,0,3,A,England,0,1,0
+2024-12-22,Tottenham,Liverpool,3,6,A,England,0,1,0
+2024-12-26,Man City,Everton,1,1,D,England,0,0,1
+2024-12-26,Bournemouth,Crystal Palace,0,0,D,England,0,0,1
+2024-12-26,Chelsea,Fulham,1,2,A,England,0,1,0
+2024-12-26,Newcastle,Aston Villa,3,0,H,England,1,0,0
+2024-12-26,Nott'm Forest,Tottenham,1,0,H,England,1,0,0
+2024-12-26,Southampton,West Ham,0,1,A,England,0,1,0
+2024-12-26,Wolves,Man United,2,0,H,England,1,0,0
+2024-12-26,Liverpool,Leicester,3,1,H,England,1,0,0
+2024-12-27,Brighton,Brentford,0,0,D,England,0,0,1
+2024-12-27,Arsenal,Ipswich,1,0,H,England,1,0,0
+2024-12-29,Leicester,Man City,0,2,A,England,0,1,0
+2024-12-29,Crystal Palace,Southampton,2,1,H,England,1,0,0
+2024-12-29,Everton,Nott'm Forest,0,2,A,England,0,1,0
+2024-12-29,Fulham,Bournemouth,2,2,D,England,0,0,1
+2024-12-29,Tottenham,Wolves,2,2,D,England,0,0,1
+2024-12-29,West Ham,Liverpool,0,5,A,England,0,1,0
+2024-12-30,Aston Villa,Brighton,2,2,D,England,0,0,1
+2024-12-30,Ipswich,Chelsea,2,0,H,England,1,0,0
+2024-12-30,Man United,Newcastle,0,2,A,England,0,1,0
+2025-01-01,Brentford,Arsenal,1,3,A,England,0,1,0
+2025-01-04,Tottenham,Newcastle,1,2,A,England,0,1,0
+2025-01-04,Aston Villa,Leicester,2,1,H,England,1,0,0
+2025-01-04,Bournemouth,Everton,1,0,H,England,1,0,0
+2025-01-04,Crystal Palace,Chelsea,1,1,D,England,0,0,1
+2025-01-04,Man City,West Ham,4,1,H,England,1,0,0
+2025-01-04,Southampton,Brentford,0,5,A,England,0,1,0
+2025-01-04,Brighton,Arsenal,1,1,D,England,0,0,1
+2025-01-05,Fulham,Ipswich,2,2,D,England,0,0,1
+2025-01-05,Liverpool,Man United,2,2,D,England,0,0,1
+2025-01-06,Wolves,Nott'm Forest,0,3,A,England,0,1,0
+2025-01-14,Brentford,Man City,2,2,D,England,0,0,1
+2025-01-14,Chelsea,Bournemouth,2,2,D,England,0,0,1
+2025-01-14,West Ham,Fulham,3,2,H,England,1,0,0
+2025-01-14,Nott'm Forest,Liverpool,1,1,D,England,0,0,1
+2025-01-15,Everton,Aston Villa,0,1,A,England,0,1,0
+2025-01-15,Leicester,Crystal Palace,0,2,A,England,0,1,0
+2025-01-15,Newcastle,Wolves,3,0,H,England,1,0,0
+2025-01-15,Arsenal,Tottenham,2,1,H,England,1,0,0
+2025-01-16,Ipswich,Brighton,0,2,A,England,0,1,0
+2025-01-16,Man United,Southampton,3,1,H,England,1,0,0
+2025-01-18,Newcastle,Bournemouth,1,4,A,England,0,1,0
+2025-01-18,Brentford,Liverpool,0,2,A,England,0,1,0
+2025-01-18,Leicester,Fulham,0,2,A,England,0,1,0
+2025-01-18,West Ham,Crystal Palace,0,2,A,England,0,1,0
+2025-01-18,Arsenal,Aston Villa,2,2,D,England,0,0,1
+2025-01-19,Everton,Tottenham,3,2,H,England,1,0,0
+2025-01-19,Man United,Brighton,1,3,A,England,0,1,0
+2025-01-19,Nott'm Forest,Southampton,3,2,H,England,1,0,0
+2025-01-19,Ipswich,Man City,0,6,A,England,0,1,0
+2025-01-20,Chelsea,Wolves,3,1,H,England,1,0,0
+2025-01-25,Bournemouth,Nott'm Forest,5,0,H,England,1,0,0
+2025-01-25,Brighton,Everton,0,1,A,England,0,1,0
+2025-01-25,Liverpool,Ipswich,4,1,H,England,1,0,0
+2025-01-25,Southampton,Newcastle,1,3,A,England,0,1,0
+2025-01-25,Wolves,Arsenal,0,1,A,England,0,1,0
+2025-01-25,Man City,Chelsea,3,1,H,England,1,0,0
+2025-01-26,Crystal Palace,Brentford,1,2,A,England,0,1,0
+2025-01-26,Tottenham,Leicester,1,2,A,England,0,1,0
+2025-01-26,Aston Villa,West Ham,1,1,D,England,0,0,1
+2025-01-26,Fulham,Man United,0,1,A,England,0,1,0
+2025-02-01,Nott'm Forest,Brighton,7,0,H,England,1,0,0
+2025-02-01,Bournemouth,Liverpool,0,2,A,England,0,1,0
+2025-02-01,Everton,Leicester,4,0,H,England,1,0,0
+2025-02-01,Ipswich,Southampton,1,2,A,England,0,1,0
+2025-02-01,Newcastle,Fulham,1,2,A,England,0,1,0
+2025-02-01,Wolves,Aston Villa,2,0,H,England,1,0,0
+2025-02-02,Brentford,Tottenham,0,2,A,England,0,1,0
+2025-02-02,Man United,Crystal Palace,0,2,A,England,0,1,0
+2025-02-02,Arsenal,Man City,5,1,H,England,1,0,0
+2025-02-03,Chelsea,West Ham,2,1,H,England,1,0,0
+2025-02-12,Everton,Liverpool,2,2,D,England,0,0,1
+2025-02-14,Brighton,Chelsea,3,0,H,England,1,0,0
+2025-02-15,Leicester,Arsenal,0,2,A,England,0,1,0
+2025-02-15,Aston Villa,Ipswich,1,1,D,England,0,0,1
+2025-02-15,Fulham,Nott'm Forest,2,1,H,England,1,0,0
+2025-02-15,Man City,Newcastle,4,0,H,England,1,0,0
+2025-02-15,Southampton,Bournemouth,1,3,A,England,0,1,0
+2025-02-15,West Ham,Brentford,0,1,A,England,0,1,0
+2025-02-15,Crystal Palace,Everton,1,2,A,England,0,1,0
+2025-02-16,Liverpool,Wolves,2,1,H,England,1,0,0
+2025-02-16,Tottenham,Man United,1,0,H,England,1,0,0
+2025-02-19,Aston Villa,Liverpool,2,2,D,England,0,0,1
+2025-02-21,Leicester,Brentford,0,4,A,England,0,1,0
+2025-02-22,Everton,Man United,2,2,D,England,0,0,1
+2025-02-22,Arsenal,West Ham,0,1,A,England,0,1,0
+2025-02-22,Bournemouth,Wolves,0,1,A,England,0,1,0
+2025-02-22,Fulham,Crystal Palace,0,2,A,England,0,1,0
+2025-02-22,Ipswich,Tottenham,1,4,A,England,0,1,0
+2025-02-22,Southampton,Brighton,0,4,A,England,0,1,0
+2025-02-22,Aston Villa,Chelsea,2,1,H,England,1,0,0
+2025-02-23,Newcastle,Nott'm Forest,4,3,H,England,1,0,0
+2025-02-23,Man City,Liverpool,0,2,A,England,0,1,0
+2025-02-25,Brighton,Bournemouth,2,1,H,England,1,0,0
+2025-02-25,Crystal Palace,Aston Villa,4,1,H,England,1,0,0
+2025-02-25,Wolves,Fulham,1,2,A,England,0,1,0
+2025-02-25,Chelsea,Southampton,4,0,H,England,1,0,0
+2025-02-26,Brentford,Everton,1,1,D,England,0,0,1
+2025-02-26,Man United,Ipswich,3,2,H,England,1,0,0
+2025-02-26,Nott'm Forest,Arsenal,0,0,D,England,0,0,1
+2025-02-26,Tottenham,Man City,0,1,A,England,0,1,0
+2025-02-26,Liverpool,Newcastle,2,0,H,England,1,0,0
+2025-02-27,West Ham,Leicester,2,0,H,England,1,0,0
+2025-03-08,Nott'm Forest,Man City,1,0,H,England,1,0,0
+2025-03-08,Brighton,Fulham,2,1,H,England,1,0,0
+2025-03-08,Crystal Palace,Ipswich,1,0,H,England,1,0,0
+2025-03-08,Liverpool,Southampton,3,1,H,England,1,0,0
+2025-03-08,Brentford,Aston Villa,0,1,A,England,0,1,0
+2025-03-08,Wolves,Everton,1,1,D,England,0,0,1
+2025-03-09,Chelsea,Leicester,1,0,H,England,1,0,0
+2025-03-09,Tottenham,Bournemouth,2,2,D,England,0,0,1
+2025-03-09,Man United,Arsenal,1,1,D,England,0,0,1
+2025-03-10,West Ham,Newcastle,0,1,A,England,0,1,0
+2025-03-15,Everton,West Ham,1,1,D,England,0,0,1
+2025-03-15,Ipswich,Nott'm Forest,2,4,A,England,0,1,0
+2025-03-15,Man City,Brighton,2,2,D,England,0,0,1
+2025-03-15,Southampton,Wolves,1,2,A,England,0,1,0
+2025-03-15,Bournemouth,Brentford,1,2,A,England,0,1,0
+2025-03-16,Arsenal,Chelsea,1,0,H,England,1,0,0
+2025-03-16,Fulham,Tottenham,2,0,H,England,1,0,0
+2025-03-16,Leicester,Man United,0,3,A,England,0,1,0
+2025-04-01,Arsenal,Fulham,2,1,H,England,1,0,0
+2025-04-01,Wolves,West Ham,1,0,H,England,1,0,0
+2025-04-01,Nott'm Forest,Man United,1,0,H,England,1,0,0
+2025-04-02,Bournemouth,Ipswich,1,2,A,England,0,1,0
+2025-04-02,Brighton,Aston Villa,0,3,A,England,0,1,0
+2025-04-02,Man City,Leicester,2,0,H,England,1,0,0
+2025-04-02,Newcastle,Brentford,2,1,H,England,1,0,0
+2025-04-02,Southampton,Crystal Palace,1,1,D,England,0,0,1
+2025-04-02,Liverpool,Everton,1,0,H,England,1,0,0
+2025-04-03,Chelsea,Tottenham,1,0,H,England,1,0,0
+2025-04-05,Everton,Arsenal,1,1,D,England,0,0,1
+2025-04-05,Crystal Palace,Brighton,2,1,H,England,1,0,0
+2025-04-05,Ipswich,Wolves,1,2,A,England,0,1,0
+2025-04-05,West Ham,Bournemouth,2,2,D,England,0,0,1
+2025-04-05,Aston Villa,Nott'm Forest,2,1,H,England,1,0,0
+2025-04-06,Brentford,Chelsea,0,0,D,England,0,0,1
+2025-04-06,Fulham,Liverpool,3,2,H,England,1,0,0
+2025-04-06,Tottenham,Southampton,3,1,H,England,1,0,0
+2025-04-06,Man United,Man City,0,0,D,England,0,0,1
+2025-04-07,Leicester,Newcastle,0,3,A,England,0,1,0
+2025-04-12,Man City,Crystal Palace,5,2,H,England,1,0,0
+2025-04-12,Brighton,Leicester,2,2,D,England,0,0,1
+2025-04-12,Nott'm Forest,Everton,0,1,A,England,0,1,0
+2025-04-12,Southampton,Aston Villa,0,3,A,England,0,1,0
+2025-04-12,Arsenal,Brentford,1,1,D,England,0,0,1
+2025-04-13,Chelsea,Ipswich,2,2,D,England,0,0,1
+2025-04-13,Liverpool,West Ham,2,1,H,England,1,0,0
+2025-04-13,Wolves,Tottenham,4,2,H,England,1,0,0
+2025-04-13,Newcastle,Man United,4,1,H,England,1,0,0
+2025-04-14,Bournemouth,Fulham,1,0,H,England,1,0,0
+2025-04-16,Newcastle,Crystal Palace,5,0,H,England,1,0,0
+2025-04-19,Brentford,Brighton,4,2,H,England,1,0,0
+2025-04-19,Crystal Palace,Bournemouth,0,0,D,England,0,0,1
+2025-04-19,Everton,Man City,0,2,A,England,0,1,0
+2025-04-19,West Ham,Southampton,1,1,D,England,0,0,1
+2025-04-19,Aston Villa,Newcastle,4,1,H,England,1,0,0
+2025-04-20,Fulham,Chelsea,1,2,A,England,0,1,0
+2025-04-20,Ipswich,Arsenal,0,4,A,England,0,1,0
+2025-04-20,Man United,Wolves,0,1,A,England,0,1,0
+2025-04-20,Leicester,Liverpool,0,1,A,England,0,1,0
+2025-04-21,Tottenham,Nott'm Forest,1,2,A,England,0,1,0
+2025-04-22,Man City,Aston Villa,2,1,H,England,1,0,0
+2025-04-23,Arsenal,Crystal Palace,2,2,D,England,0,0,1
+2025-04-26,Chelsea,Everton,1,0,H,England,1,0,0
+2025-04-26,Brighton,West Ham,3,2,H,England,1,0,0
+2025-04-26,Newcastle,Ipswich,3,0,H,England,1,0,0
+2025-04-26,Southampton,Fulham,1,2,A,England,0,1,0
+2025-04-26,Wolves,Leicester,3,0,H,England,1,0,0
+2025-04-27,Bournemouth,Man United,1,1,D,England,0,0,1
+2025-04-27,Liverpool,Tottenham,5,1,H,England,1,0,0
+2025-05-01,Nott'm Forest,Brentford,0,2,A,England,0,1,0
+2025-05-02,Man City,Wolves,1,0,H,England,1,0,0
+2025-05-03,Aston Villa,Fulham,1,0,H,England,1,0,0
+2025-05-03,Everton,Ipswich,2,2,D,England,0,0,1
+2025-05-03,Leicester,Southampton,2,0,H,England,1,0,0
+2025-05-03,Arsenal,Bournemouth,1,2,A,England,0,1,0
+2025-05-04,Brentford,Man United,4,3,H,England,1,0,0
+2025-05-04,Brighton,Newcastle,1,1,D,England,0,0,1
+2025-05-04,West Ham,Tottenham,1,1,D,England,0,0,1
+2025-05-04,Chelsea,Liverpool,3,1,H,England,1,0,0
+2025-05-05,Crystal Palace,Nott'm Forest,1,1,D,England,0,0,1
+2025-05-10,Fulham,Everton,1,3,A,England,0,1,0
+2025-05-10,Ipswich,Brentford,0,1,A,England,0,1,0
+2025-05-10,Southampton,Man City,0,0,D,England,0,0,1
+2025-05-10,Wolves,Brighton,0,2,A,England,0,1,0
+2025-05-10,Bournemouth,Aston Villa,0,1,A,England,0,1,0
+2025-05-11,Newcastle,Chelsea,2,0,H,England,1,0,0
+2025-05-11,Man United,West Ham,0,2,A,England,0,1,0
+2025-05-11,Nott'm Forest,Leicester,2,2,D,England,0,0,1
+2025-05-11,Tottenham,Crystal Palace,0,2,A,England,0,1,0
+2025-05-11,Liverpool,Arsenal,2,2,D,England,0,0,1
+2025-05-16,Aston Villa,Tottenham,2,0,H,England,1,0,0
+2025-05-16,Chelsea,Man United,1,0,H,England,1,0,0
+2025-05-18,Everton,Southampton,2,0,H,England,1,0,0
+2025-05-18,West Ham,Nott'm Forest,1,2,A,England,0,1,0
+2025-05-18,Brentford,Fulham,2,3,A,England,0,1,0
+2025-05-18,Leicester,Ipswich,2,0,H,England,1,0,0
+2025-05-18,Arsenal,Newcastle,1,0,H,England,1,0,0
+2025-05-19,Brighton,Liverpool,3,2,H,England,1,0,0
+2025-05-20,Crystal Palace,Wolves,4,2,H,England,1,0,0
+2025-05-20,Man City,Bournemouth,3,1,H,England,1,0,0
+2025-05-25,Bournemouth,Leicester,2,0,H,England,1,0,0
+2025-05-25,Fulham,Man City,0,2,A,England,0,1,0
+2025-05-25,Ipswich,West Ham,1,3,A,England,0,1,0
+2025-05-25,Liverpool,Crystal Palace,1,1,D,England,0,0,1
+2025-05-25,Man United,Aston Villa,2,0,H,England,1,0,0
+2025-05-25,Newcastle,Everton,0,1,A,England,0,1,0
+2025-05-25,Nott'm Forest,Chelsea,0,1,A,England,0,1,0
+2025-05-25,Southampton,Arsenal,1,2,A,England,0,1,0
+2025-05-25,Tottenham,Brighton,1,4,A,England,0,1,0
+2025-05-25,Wolves,Brentford,1,1,D,England,0,0,1
+2024-07-19,Jagiellonia,Puszcza,2,0,H,Poland,1,0,0
+2024-07-19,Slask Wroclaw,Lechia Gdansk,1,1,D,Poland,0,0,1
+2024-07-20,GKS Katowice,Radomiak Radom,1,2,A,Poland,0,1,0
+2024-07-20,Pogon Szczecin,Korona Kielce,3,0,H,Poland,1,0,0
+2024-07-20,Legia,Zaglebie,2,0,H,Poland,1,0,0
+2024-07-21,Cracovia,Piast Gliwice,1,1,D,Poland,0,0,1
+2024-07-21,Lech Poznan,Gornik Zabrze,2,0,H,Poland,1,0,0
+2024-07-21,Motor Lublin,Rakow,0,2,A,Poland,0,1,0
+2024-07-22,Stal Mielec,Widzew Lodz,1,1,D,Poland,0,0,1
+2024-07-26,Puszcza,Gornik Zabrze,2,2,D,Poland,0,0,1
+2024-07-26,Lechia Gdansk,Motor Lublin,0,2,A,Poland,0,1,0
+2024-07-27,Stal Mielec,GKS Katowice,0,1,A,Poland,0,1,0
+2024-07-27,Radomiak Radom,Jagiellonia,2,3,A,Poland,0,1,0
+2024-07-27,Widzew Lodz,Lech Poznan,2,1,H,Poland,1,0,0
+2024-07-28,Zaglebie,Pogon Szczecin,2,2,D,Poland,0,0,1
+2024-07-28,Piast Gliwice,Slask Wroclaw,2,0,H,Poland,1,0,0
+2024-07-28,Korona Kielce,Legia,0,1,A,Poland,0,1,0
+2024-07-29,Rakow,Cracovia,0,1,A,Poland,0,1,0
+2024-08-02,Zaglebie,Puszcza,1,0,H,Poland,1,0,0
+2024-08-02,Gornik Zabrze,Pogon Szczecin,1,0,H,Poland,1,0,0
+2024-08-03,GKS Katowice,Rakow,0,1,A,Poland,0,1,0
+2024-08-03,Jagiellonia,Stal Mielec,2,0,H,Poland,1,0,0
+2024-08-03,Lech Poznan,Lechia Gdansk,3,1,H,Poland,1,0,0
+2024-08-04,Motor Lublin,Korona Kielce,1,1,D,Poland,0,0,1
+2024-08-04,Legia,Piast Gliwice,1,2,A,Poland,0,1,0
+2024-08-05,Cracovia,Widzew Lodz,1,3,A,Poland,0,1,0
+2024-08-09,Radomiak Radom,Gornik Zabrze,1,2,A,Poland,0,1,0
+2024-08-09,Rakow,Lech Poznan,0,0,D,Poland,0,0,1
+2024-08-10,Korona Kielce,Cracovia,0,2,A,Poland,0,1,0
+2024-08-10,Pogon Szczecin,Stal Mielec,1,0,H,Poland,1,0,0
+2024-08-11,Lechia Gdansk,Zaglebie,1,1,D,Poland,0,0,1
+2024-08-11,Puszcza,Legia,2,2,D,Poland,0,0,1
+2024-08-11,Widzew Lodz,Slask Wroclaw,0,0,D,Poland,0,0,1
+2024-08-12,Piast Gliwice,GKS Katowice,2,2,D,Poland,0,0,1
+2024-08-16,Puszcza,Lechia Gdansk,4,1,H,Poland,1,0,0
+2024-08-16,GKS Katowice,Motor Lublin,0,0,D,Poland,0,0,1
+2024-08-17,Jagiellonia,Cracovia,2,4,A,Poland,0,1,0
+2024-08-17,Zaglebie,Lech Poznan,0,1,A,Poland,0,1,0
+2024-08-17,Pogon Szczecin,Widzew Lodz,2,0,H,Poland,1,0,0
+2024-08-18,Slask Wroclaw,Korona Kielce,1,1,D,Poland,0,0,1
+2024-08-18,Legia,Radomiak Radom,4,1,H,Poland,1,0,0
+2024-08-18,Gornik Zabrze,Rakow,0,0,D,Poland,0,0,1
+2024-08-19,Stal Mielec,Piast Gliwice,2,0,H,Poland,1,0,0
+2024-08-23,Widzew Lodz,Radomiak Radom,3,2,H,Poland,1,0,0
+2024-08-23,Lechia Gdansk,Rakow,1,2,A,Poland,0,1,0
+2024-08-24,Motor Lublin,Puszcza,0,0,D,Poland,0,0,1
+2024-08-24,Cracovia,Gornik Zabrze,3,2,H,Poland,1,0,0
+2024-08-24,Piast Gliwice,Zaglebie,1,0,H,Poland,1,0,0
+2024-08-25,GKS Katowice,Jagiellonia,3,1,H,Poland,1,0,0
+2024-08-25,Lech Poznan,Pogon Szczecin,2,0,H,Poland,1,0,0
+2024-08-25,Slask Wroclaw,Legia,1,1,D,Poland,0,0,1
+2024-08-26,Korona Kielce,Stal Mielec,2,1,H,Poland,1,0,0
+2024-08-30,Rakow,Piast Gliwice,0,1,A,Poland,0,1,0
+2024-08-30,Stal Mielec,Lech Poznan,0,2,A,Poland,0,1,0
+2024-08-31,Puszcza,Korona Kielce,0,0,D,Poland,0,0,1
+2024-08-31,Zaglebie,GKS Katowice,1,0,H,Poland,1,0,0
+2024-08-31,Radomiak Radom,Cracovia,2,1,H,Poland,1,0,0
+2024-09-01,Gornik Zabrze,Lechia Gdansk,2,3,A,Poland,0,1,0
+2024-09-01,Legia,Motor Lublin,5,2,H,Poland,1,0,0
+2024-09-01,Pogon Szczecin,Slask Wroclaw,5,3,H,Poland,1,0,0
+2024-09-01,Jagiellonia,Widzew Lodz,1,0,H,Poland,1,0,0
+2024-09-13,Motor Lublin,Gornik Zabrze,1,0,H,Poland,1,0,0
+2024-09-13,GKS Katowice,Widzew Lodz,2,2,D,Poland,0,0,1
+2024-09-14,Lechia Gdansk,Radomiak Radom,1,0,H,Poland,1,0,0
+2024-09-14,Cracovia,Pogon Szczecin,2,1,H,Poland,1,0,0
+2024-09-14,Lech Poznan,Jagiellonia,5,0,H,Poland,1,0,0
+2024-09-15,Piast Gliwice,Puszcza,1,1,D,Poland,0,0,1
+2024-09-15,Korona Kielce,Zaglebie,2,0,H,Poland,1,0,0
+2024-09-15,Legia,Rakow,0,1,A,Poland,0,1,0
+2024-09-20,Radomiak Radom,Korona Kielce,4,0,H,Poland,1,0,0
+2024-09-20,Pogon Szczecin,Legia,1,0,H,Poland,1,0,0
+2024-09-21,Puszcza,Cracovia,1,2,A,Poland,0,1,0
+2024-09-21,Jagiellonia,Lechia Gdansk,3,2,H,Poland,1,0,0
+2024-09-21,Widzew Lodz,Piast Gliwice,1,0,H,Poland,1,0,0
+2024-09-21,Gornik Zabrze,GKS Katowice,3,0,H,Poland,1,0,0
+2024-09-22,Stal Mielec,Motor Lublin,1,0,H,Poland,1,0,0
+2024-09-22,Rakow,Zaglebie,5,1,H,Poland,1,0,0
+2024-09-22,Lech Poznan,Slask Wroclaw,1,0,H,Poland,1,0,0
+2024-09-25,Motor Lublin,Jagiellonia,0,2,A,Poland,0,1,0
+2024-09-27,GKS Katowice,Pogon Szczecin,3,1,H,Poland,1,0,0
+2024-09-27,Lechia Gdansk,Widzew Lodz,1,1,D,Poland,0,0,1
+2024-09-28,Rakow,Puszcza,2,0,H,Poland,1,0,0
+2024-09-28,Motor Lublin,Slask Wroclaw,2,1,H,Poland,1,0,0
+2024-09-28,Legia,Gornik Zabrze,1,1,D,Poland,0,0,1
+2024-09-29,Zaglebie,Radomiak Radom,1,0,H,Poland,1,0,0
+2024-09-29,Korona Kielce,Lech Poznan,2,3,A,Poland,0,1,0
+2024-09-29,Piast Gliwice,Jagiellonia,0,1,A,Poland,0,1,0
+2024-09-30,Cracovia,Stal Mielec,1,1,D,Poland,0,0,1
+2024-10-04,Puszcza,GKS Katowice,0,6,A,Poland,0,1,0
+2024-10-04,Widzew Lodz,Korona Kielce,0,1,A,Poland,0,1,0
+2024-10-05,Stal Mielec,Lechia Gdansk,2,1,H,Poland,1,0,0
+2024-10-05,Radomiak Radom,Rakow,0,2,A,Poland,0,1,0
+2024-10-05,Gornik Zabrze,Zaglebie,0,1,A,Poland,0,1,0
+2024-10-05,Lech Poznan,Motor Lublin,1,2,A,Poland,0,1,0
+2024-10-06,Slask Wroclaw,Cracovia,2,4,A,Poland,0,1,0
+2024-10-06,Pogon Szczecin,Piast Gliwice,1,0,H,Poland,1,0,0
+2024-10-06,Jagiellonia,Legia,1,1,D,Poland,0,0,1
+2024-10-18,Korona Kielce,Piast Gliwice,0,2,A,Poland,0,1,0
+2024-10-18,Lechia Gdansk,Legia,0,2,A,Poland,0,1,0
+2024-10-19,Motor Lublin,Widzew Lodz,3,4,A,Poland,0,1,0
+2024-10-19,Zaglebie,Jagiellonia,1,3,A,Poland,0,1,0
+2024-10-19,Cracovia,Lech Poznan,0,2,A,Poland,0,1,0
+2024-10-20,GKS Katowice,Slask Wroclaw,0,0,D,Poland,0,0,1
+2024-10-20,Gornik Zabrze,Stal Mielec,3,1,H,Poland,1,0,0
+2024-10-20,Rakow,Pogon Szczecin,1,0,H,Poland,1,0,0
+2024-10-21,Radomiak Radom,Puszcza,2,0,H,Poland,1,0,0
+2024-10-23,Slask Wroclaw,Stal Mielec,2,1,H,Poland,1,0,0
+2024-10-25,Piast Gliwice,Lechia Gdansk,3,3,D,Poland,0,0,1
+2024-10-25,Pogon Szczecin,Puszcza,2,1,H,Poland,1,0,0
+2024-10-26,Cracovia,Motor Lublin,6,2,H,Poland,1,0,0
+2024-10-26,Slask Wroclaw,Rakow,0,0,D,Poland,0,0,1
+2024-10-26,Lech Poznan,Radomiak Radom,2,1,H,Poland,1,0,0
+2024-10-27,Stal Mielec,Zaglebie,2,2,D,Poland,0,0,1
+2024-10-27,Jagiellonia,Korona Kielce,3,1,H,Poland,1,0,0
+2024-10-27,Widzew Lodz,Gornik Zabrze,0,2,A,Poland,0,1,0
+2024-10-27,Legia,GKS Katowice,4,1,H,Poland,1,0,0
+2024-11-02,Rakow,Stal Mielec,1,0,H,Poland,1,0,0
+2024-11-02,Motor Lublin,Pogon Szczecin,4,2,H,Poland,1,0,0
+2024-11-02,Puszcza,Lech Poznan,2,0,H,Poland,1,0,0
+2024-11-03,Radomiak Radom,Piast Gliwice,1,1,D,Poland,0,0,1
+2024-11-03,Gornik Zabrze,Jagiellonia,0,2,A,Poland,0,1,0
+2024-11-03,Lechia Gdansk,Cracovia,1,2,A,Poland,0,1,0
+2024-11-03,Legia,Widzew Lodz,2,1,H,Poland,1,0,0
+2024-11-04,GKS Katowice,Korona Kielce,1,2,A,Poland,0,1,0
+2024-11-04,Zaglebie,Slask Wroclaw,3,0,H,Poland,1,0,0
+2024-11-08,Piast Gliwice,Motor Lublin,2,3,A,Poland,0,1,0
+2024-11-08,Pogon Szczecin,Radomiak Radom,0,1,A,Poland,0,1,0
+2024-11-09,Korona Kielce,Lechia Gdansk,0,0,D,Poland,0,0,1
+2024-11-09,Cracovia,GKS Katowice,3,4,A,Poland,0,1,0
+2024-11-09,Widzew Lodz,Zaglebie,2,0,H,Poland,1,0,0
+2024-11-09,Slask Wroclaw,Gornik Zabrze,0,1,A,Poland,0,1,0
+2024-11-10,Stal Mielec,Puszcza,2,0,H,Poland,1,0,0
+2024-11-10,Jagiellonia,Rakow,2,2,D,Poland,0,0,1
+2024-11-10,Lech Poznan,Legia,5,2,H,Poland,1,0,0
+2024-11-22,Zaglebie,Motor Lublin,1,2,A,Poland,0,1,0
+2024-11-22,Jagiellonia,Slask Wroclaw,2,2,D,Poland,0,0,1
+2024-11-23,Lechia Gdansk,Pogon Szczecin,0,3,A,Poland,0,1,0
+2024-11-23,Lech Poznan,GKS Katowice,2,0,H,Poland,1,0,0
+2024-11-23,Legia,Cracovia,3,2,H,Poland,1,0,0
+2024-11-24,Radomiak Radom,Stal Mielec,1,2,A,Poland,0,1,0
+2024-11-24,Rakow,Korona Kielce,1,1,D,Poland,0,0,1
+2024-11-24,Gornik Zabrze,Piast Gliwice,1,0,H,Poland,1,0,0
+2024-11-25,Puszcza,Widzew Lodz,2,0,H,Poland,1,0,0
+2024-11-29,Cracovia,Zaglebie,1,1,D,Poland,0,0,1
+2024-11-29,Piast Gliwice,Lech Poznan,0,0,D,Poland,0,0,1
+2024-11-30,Slask Wroclaw,Puszcza,0,1,A,Poland,0,1,0
+2024-11-30,GKS Katowice,Lechia Gdansk,2,0,H,Poland,1,0,0
+2024-11-30,Widzew Lodz,Rakow,2,3,A,Poland,0,1,0
+2024-12-01,Korona Kielce,Gornik Zabrze,2,4,A,Poland,0,1,0
+2024-12-01,Pogon Szczecin,Jagiellonia,1,1,D,Poland,0,0,1
+2024-12-01,Stal Mielec,Legia,2,2,D,Poland,0,0,1
+2024-12-02,Motor Lublin,Radomiak Radom,1,0,H,Poland,1,0,0
+2024-12-06,Radomiak Radom,GKS Katowice,1,1,D,Poland,0,0,1
+2024-12-06,Gornik Zabrze,Lech Poznan,2,1,H,Poland,1,0,0
+2024-12-07,Lechia Gdansk,Slask Wroclaw,1,0,H,Poland,1,0,0
+2024-12-07,Widzew Lodz,Stal Mielec,2,1,H,Poland,1,0,0
+2024-12-07,Rakow,Motor Lublin,2,2,D,Poland,0,0,1
+2024-12-08,Piast Gliwice,Cracovia,0,0,D,Poland,0,0,1
+2024-12-08,Puszcza,Jagiellonia,1,1,D,Poland,0,0,1
+2024-12-08,Zaglebie,Legia,0,3,A,Poland,0,1,0
+2024-12-09,Korona Kielce,Pogon Szczecin,0,0,D,Poland,0,0,1
+2024-12-14,Slask Wroclaw,Radomiak Radom,1,2,A,Poland,0,1,0
+2025-01-31,GKS Katowice,Stal Mielec,1,0,H,Poland,1,0,0
+2025-01-31,Lech Poznan,Widzew Lodz,4,1,H,Poland,1,0,0
+2025-02-01,Motor Lublin,Lechia Gdansk,1,1,D,Poland,0,0,1
+2025-02-01,Cracovia,Rakow,0,0,D,Poland,0,0,1
+2025-02-01,Pogon Szczecin,Zaglebie,1,0,H,Poland,1,0,0
+2025-02-02,Gornik Zabrze,Puszcza,1,1,D,Poland,0,0,1
+2025-02-02,Jagiellonia,Radomiak Radom,5,0,H,Poland,1,0,0
+2025-02-02,Legia,Korona Kielce,1,1,D,Poland,0,0,1
+2025-02-03,Slask Wroclaw,Piast Gliwice,1,3,A,Poland,0,1,0
+2025-02-07,Stal Mielec,Jagiellonia,2,1,H,Poland,1,0,0
+2025-02-07,Pogon Szczecin,Gornik Zabrze,3,0,H,Poland,1,0,0
+2025-02-08,Radomiak Radom,Slask Wroclaw,1,1,D,Poland,0,0,1
+2025-02-08,Rakow,GKS Katowice,1,2,A,Poland,0,1,0
+2025-02-08,Piast Gliwice,Legia,1,0,H,Poland,1,0,0
+2025-02-09,Korona Kielce,Motor Lublin,1,0,H,Poland,1,0,0
+2025-02-09,Widzew Lodz,Cracovia,1,1,D,Poland,0,0,1
+2025-02-09,Lechia Gdansk,Lech Poznan,1,0,H,Poland,1,0,0
+2025-02-10,Puszcza,Zaglebie,1,2,A,Poland,0,1,0
+2025-02-14,Cracovia,Korona Kielce,1,1,D,Poland,0,0,1
+2025-02-14,Lech Poznan,Rakow,0,1,A,Poland,0,1,0
+2025-02-15,Slask Wroclaw,Widzew Lodz,3,0,H,Poland,1,0,0
+2025-02-15,Gornik Zabrze,Radomiak Radom,3,2,H,Poland,1,0,0
+2025-02-15,Legia,Puszcza,2,0,H,Poland,1,0,0
+2025-02-16,Stal Mielec,Pogon Szczecin,1,2,A,Poland,0,1,0
+2025-02-16,GKS Katowice,Piast Gliwice,0,0,D,Poland,0,0,1
+2025-02-16,Jagiellonia,Motor Lublin,3,0,H,Poland,1,0,0
+2025-02-17,Zaglebie,Lechia Gdansk,1,3,A,Poland,0,1,0
+2025-02-21,Piast Gliwice,Stal Mielec,2,2,D,Poland,0,0,1
+2025-02-21,Rakow,Gornik Zabrze,1,0,H,Poland,1,0,0
+2025-02-22,Korona Kielce,Slask Wroclaw,2,0,H,Poland,1,0,0
+2025-02-22,Widzew Lodz,Pogon Szczecin,0,4,A,Poland,0,1,0
+2025-02-22,Radomiak Radom,Legia,3,1,H,Poland,1,0,0
+2025-02-23,Lechia Gdansk,Puszcza,0,2,A,Poland,0,1,0
+2025-02-23,Cracovia,Jagiellonia,2,2,D,Poland,0,0,1
+2025-02-23,Lech Poznan,Zaglebie,3,1,H,Poland,1,0,0
+2025-02-24,Motor Lublin,GKS Katowice,3,2,H,Poland,1,0,0
+2025-02-28,Radomiak Radom,Widzew Lodz,1,1,D,Poland,0,0,1
+2025-02-28,Gornik Zabrze,Cracovia,0,1,A,Poland,0,1,0
+2025-03-01,Stal Mielec,Korona Kielce,0,1,A,Poland,0,1,0
+2025-03-01,Pogon Szczecin,Lech Poznan,0,3,A,Poland,0,1,0
+2025-03-01,Zaglebie,Piast Gliwice,0,1,A,Poland,0,1,0
+2025-03-02,Puszcza,Motor Lublin,0,1,A,Poland,0,1,0
+2025-03-02,Legia,Slask Wroclaw,3,1,H,Poland,1,0,0
+2025-03-02,Jagiellonia,GKS Katowice,1,0,H,Poland,1,0,0
+2025-03-03,Rakow,Lechia Gdansk,3,1,H,Poland,1,0,0
+2025-03-07,Korona Kielce,Puszcza,2,1,H,Poland,1,0,0
+2025-03-07,Slask Wroclaw,Pogon Szczecin,1,1,D,Poland,0,0,1
+2025-03-08,Cracovia,Radomiak Radom,1,2,A,Poland,0,1,0
+2025-03-08,Piast Gliwice,Rakow,0,3,A,Poland,0,1,0
+2025-03-08,Lech Poznan,Stal Mielec,3,1,H,Poland,1,0,0
+2025-03-09,GKS Katowice,Zaglebie,1,0,H,Poland,1,0,0
+2025-03-09,Lechia Gdansk,Gornik Zabrze,1,2,A,Poland,0,1,0
+2025-03-09,Widzew Lodz,Jagiellonia,0,1,A,Poland,0,1,0
+2025-03-10,Motor Lublin,Legia,3,3,D,Poland,0,0,1
+2025-03-14,Radomiak Radom,Lechia Gdansk,2,1,H,Poland,1,0,0
+2025-03-14,Pogon Szczecin,Cracovia,5,2,H,Poland,1,0,0
+2025-03-15,Stal Mielec,Slask Wroclaw,1,4,A,Poland,0,1,0
+2025-03-15,Gornik Zabrze,Motor Lublin,4,0,H,Poland,1,0,0
+2025-03-15,Widzew Lodz,GKS Katowice,1,0,H,Poland,1,0,0
+2025-03-16,Puszcza,Piast Gliwice,2,1,H,Poland,1,0,0
+2025-03-16,Zaglebie,Korona Kielce,1,1,D,Poland,0,0,1
+2025-03-16,Rakow,Legia,3,2,H,Poland,1,0,0
+2025-03-16,Jagiellonia,Lech Poznan,2,1,H,Poland,1,0,0
+2025-03-28,Piast Gliwice,Widzew Lodz,0,2,A,Poland,0,1,0
+2025-03-28,Legia,Pogon Szczecin,0,0,D,Poland,0,0,1
+2025-03-29,Cracovia,Puszcza,3,1,H,Poland,1,0,0
+2025-03-29,Lechia Gdansk,Jagiellonia,1,0,H,Poland,1,0,0
+2025-03-29,Slask Wroclaw,Lech Poznan,3,1,H,Poland,1,0,0
+2025-03-30,Korona Kielce,Radomiak Radom,1,3,A,Poland,0,1,0
+2025-03-30,Motor Lublin,Stal Mielec,4,1,H,Poland,1,0,0
+2025-03-30,GKS Katowice,Gornik Zabrze,2,1,H,Poland,1,0,0
+2025-03-31,Zaglebie,Rakow,0,2,A,Poland,0,1,0
+2025-04-04,Stal Mielec,Cracovia,1,1,D,Poland,0,0,1
+2025-04-04,Widzew Lodz,Lechia Gdansk,2,0,H,Poland,1,0,0
+2025-04-05,Radomiak Radom,Zaglebie,0,1,A,Poland,0,1,0
+2025-04-05,Slask Wroclaw,Motor Lublin,1,1,D,Poland,0,0,1
+2025-04-05,Lech Poznan,Korona Kielce,2,0,H,Poland,1,0,0
+2025-04-06,Jagiellonia,Piast Gliwice,1,1,D,Poland,0,0,1
+2025-04-06,Gornik Zabrze,Legia,1,2,A,Poland,0,1,0
+2025-04-06,Pogon Szczecin,GKS Katowice,4,0,H,Poland,1,0,0
+2025-04-07,Puszcza,Rakow,1,1,D,Poland,0,0,1
+2025-04-11,Zaglebie,Gornik Zabrze,2,1,H,Poland,1,0,0
+2025-04-11,Korona Kielce,Widzew Lodz,2,1,H,Poland,1,0,0
+2025-04-12,GKS Katowice,Puszcza,3,1,H,Poland,1,0,0
+2025-04-12,Cracovia,Slask Wroclaw,2,4,A,Poland,0,1,0
+2025-04-12,Rakow,Radomiak Radom,2,1,H,Poland,1,0,0
+2025-04-13,Piast Gliwice,Pogon Szczecin,2,1,H,Poland,1,0,0
+2025-04-13,Motor Lublin,Lech Poznan,1,2,A,Poland,0,1,0
+2025-04-13,Legia,Jagiellonia,0,1,A,Poland,0,1,0
+2025-04-14,Lechia Gdansk,Stal Mielec,3,2,H,Poland,1,0,0
+2025-04-19,Piast Gliwice,Korona Kielce,1,1,D,Poland,0,0,1
+2025-04-19,Slask Wroclaw,GKS Katowice,0,2,A,Poland,0,1,0
+2025-04-19,Widzew Lodz,Motor Lublin,1,2,A,Poland,0,1,0
+2025-04-19,Pogon Szczecin,Rakow,1,0,H,Poland,1,0,0
+2025-04-21,Puszcza,Radomiak Radom,2,2,D,Poland,0,0,1
+2025-04-21,Jagiellonia,Zaglebie,1,3,A,Poland,0,1,0
+2025-04-21,Legia,Lechia Gdansk,2,1,H,Poland,1,0,0
+2025-04-21,Lech Poznan,Cracovia,2,1,H,Poland,1,0,0
+2025-04-22,Stal Mielec,Gornik Zabrze,0,0,D,Poland,0,0,1
+2025-04-25,Puszcza,Pogon Szczecin,4,5,A,Poland,0,1,0
+2025-04-25,Rakow,Slask Wroclaw,3,0,H,Poland,1,0,0
+2025-04-26,Lechia Gdansk,Piast Gliwice,3,1,H,Poland,1,0,0
+2025-04-26,Motor Lublin,Cracovia,0,1,A,Poland,0,1,0
+2025-04-26,GKS Katowice,Legia,1,3,A,Poland,0,1,0
+2025-04-27,Korona Kielce,Jagiellonia,3,1,H,Poland,1,0,0
+2025-04-27,Gornik Zabrze,Widzew Lodz,0,0,D,Poland,0,0,1
+2025-04-27,Radomiak Radom,Lech Poznan,2,2,D,Poland,0,0,1
+2025-04-28,Zaglebie,Stal Mielec,2,2,D,Poland,0,0,1
+2025-05-03,Stal Mielec,Rakow,0,2,A,Poland,0,1,0
+2025-05-03,Slask Wroclaw,Zaglebie,3,1,H,Poland,1,0,0
+2025-05-03,Lech Poznan,Puszcza,8,1,H,Poland,1,0,0
+2025-05-04,Piast Gliwice,Radomiak Radom,0,0,D,Poland,0,0,1
+2025-05-04,Cracovia,Lechia Gdansk,0,2,A,Poland,0,1,0
+2025-05-04,Jagiellonia,Gornik Zabrze,1,1,D,Poland,0,0,1
+2025-05-05,Korona Kielce,GKS Katowice,2,1,H,Poland,1,0,0
+2025-05-09,Motor Lublin,Piast Gliwice,1,4,A,Poland,0,1,0
+2025-05-09,Gornik Zabrze,Slask Wroclaw,2,0,H,Poland,1,0,0
+2025-05-10,Radomiak Radom,Pogon Szczecin,2,0,H,Poland,1,0,0
+2025-05-10,Zaglebie,Widzew Lodz,2,1,H,Poland,1,0,0
+2025-05-10,Rakow,Jagiellonia,1,2,A,Poland,0,1,0
+2025-05-11,Lechia Gdansk,Korona Kielce,3,2,H,Poland,1,0,0
+2025-05-11,GKS Katowice,Cracovia,2,1,H,Poland,1,0,0
+2025-05-11,Legia,Lech Poznan,0,1,A,Poland,0,1,0
+2025-05-12,Puszcza,Stal Mielec,2,3,A,Poland,0,1,0
+2025-05-14,Pogon Szczecin,Motor Lublin,3,0,H,Poland,1,0,0
+2025-05-15,Widzew Lodz,Legia,0,2,A,Poland,0,1,0
+2025-05-16,Stal Mielec,Radomiak Radom,2,2,D,Poland,0,0,1
+2025-05-16,Slask Wroclaw,Jagiellonia,1,1,D,Poland,0,0,1
+2025-05-17,Pogon Szczecin,Lechia Gdansk,3,3,D,Poland,0,0,1
+2025-05-17,Piast Gliwice,Gornik Zabrze,2,0,H,Poland,1,0,0
+2025-05-17,Korona Kielce,Rakow,1,1,D,Poland,0,0,1
+2025-05-18,Motor Lublin,Zaglebie,1,0,H,Poland,1,0,0
+2025-05-18,Cracovia,Legia,3,1,H,Poland,1,0,0
+2025-05-18,GKS Katowice,Lech Poznan,2,2,D,Poland,0,0,1
+2025-05-19,Widzew Lodz,Puszcza,2,0,H,Poland,1,0,0
+2025-05-24,Gornik Zabrze,Korona Kielce,1,1,D,Poland,0,0,1
+2025-05-24,Jagiellonia,Pogon Szczecin,1,1,D,Poland,0,0,1
+2025-05-24,Lech Poznan,Piast Gliwice,1,0,H,Poland,1,0,0
+2025-05-24,Lechia Gdansk,GKS Katowice,2,3,A,Poland,0,1,0
+2025-05-24,Legia,Stal Mielec,2,2,D,Poland,0,0,1
+2025-05-24,Puszcza,Slask Wroclaw,1,1,D,Poland,0,0,1
+2025-05-24,Radomiak Radom,Motor Lublin,2,3,A,Poland,0,1,0
+2025-05-24,Rakow,Widzew Lodz,2,1,H,Poland,1,0,0
+2025-05-24,Zaglebie,Cracovia,1,2,A,Poland,0,1,0
