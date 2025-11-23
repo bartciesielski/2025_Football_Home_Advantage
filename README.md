@@ -23,7 +23,7 @@ The study evaluates how strongly home advantage appears in each league and compa
 ├─ reports/
 │   ├─ figures/            # Saved visual outputs
 │   └─ dmp/                # Data Management Plan (PDF)
-├─ fair_assessment/        # FAIR self-assessment results (PDF + link)
+├─ fair_assessment/        # FAIR self-assessment results (PNG + link)
 ├─ src/                    # Optional Python scripts
 └─ README.md
 ````
@@ -162,6 +162,3 @@ This folder contains:
 
 Bartosz Ciesielski
 TU Wien — Research Data Management (2025)
-
-```
-```
